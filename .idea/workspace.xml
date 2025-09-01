@@ -5,15 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="403bf3ce-7d74-4341-829f-7c5304b58c75" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Diccionario/EjerciciosDiccionarios.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Set/EjerciciosSet.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Set/GuiaSet.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Set/PracticasSet.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tuples/EjerciciosTuples.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tuples/GuiaTuples.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tuples/PracticaTuples.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Booleanos/EjerciciosBooleanos.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Booleanos/GuiaBooleanos.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Booleanos/PracticasBooleanos.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practica_Dia1Curso/Practica_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practica_Dia1Curso/Proyecto+del+Día+1.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practica_Dia2Curso/Practica_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practica_Dia3Curso/Practica_3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practica_Dia3Curso/Proyecto+del+Día+3.pdf" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Diccionario/PracticaDiccionario.py" beforeDir="false" afterPath="$PROJECT_DIR$/Diccionario/PracticaDiccionario.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Practica_1.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,6 +54,10 @@
     "Python.PracticaPropiedadesString.executor": "Run",
     "Python.PracticaTuples.executor": "Run",
     "Python.Practica_1.executor": "Run",
+    "Python.Practica_2.executor": "Run",
+    "Python.Practica_3.executor": "Run",
+    "Python.PracticasBoleanos.executor": "Run",
+    "Python.PracticasBooleanos.executor": "Run",
     "Python.PracticasSet.executor": "Run",
     "Python.Prctica_MetodosString1.executor": "Run",
     "Python.Prctica_mtdIndx.executor": "Run",
@@ -65,18 +70,23 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "/Users/marcose/Documents/PYTHON_MB"
+    "last_opened_file_path": "/Users/marcose/Documents/PYTHON_MB/Practica_Dia3Curso"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Practica_Dia3Curso" />
+      <recent name="$PROJECT_DIR$/Practica_Dia2Curso" />
+      <recent name="$PROJECT_DIR$/Practica_curso1" />
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/.venv/MetodosString" />
-      <recent name="$PROJECT_DIR$/.venv/Practicas_problemas_Metodos_String" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Practica_Dia1Curso" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.PracticasSet">
-    <configuration name="GuiaDiccionario" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.Practica_3">
+    <configuration name="Practica_1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PYTHON_MB" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -85,11 +95,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Diccionario" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Diccionario/GuiaDiccionario.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Practica_Dia1Curso/Practica_1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -98,7 +108,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="PracticaDiccionario" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Practica_2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PYTHON_MB" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -107,11 +117,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Diccionario" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Practica_Dia2Curso" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Diccionario/PracticaDiccionario.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Practica_Dia2Curso/Practica_2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -120,7 +130,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="PracticaTuples" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Practica_3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PYTHON_MB" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -129,11 +139,33 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Tuples" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Practica_Dia3Curso" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Tuples/PracticaTuples.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Practica_Dia3Curso/Practica_3.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="PracticasBooleanos" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PYTHON_MB" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Booleanos" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Booleanos/PracticasBooleanos.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -164,35 +196,13 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Validacion_Problemas" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="PYTHON_MB" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Prcticas_MtdString" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Prcticas_MtdString/Validacion_Problemas.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Practica_3" />
+        <item itemvalue="Python.Practica_2" />
+        <item itemvalue="Python.Practica_1" />
+        <item itemvalue="Python.PracticasBooleanos" />
         <item itemvalue="Python.PracticasSet" />
-        <item itemvalue="Python.PracticaTuples" />
-        <item itemvalue="Python.GuiaDiccionario" />
-        <item itemvalue="Python.PracticaDiccionario" />
-        <item itemvalue="Python.Validacion_Problemas" />
       </list>
     </recent_temporary>
   </component>

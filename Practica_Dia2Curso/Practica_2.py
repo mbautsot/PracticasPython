@@ -1,0 +1,19 @@
+'''
+La situación es esta: tú trabajas en una empresa donde los vendedores reciben comisiones
+del 13% por sus ventas totales, y tu jefe quiere que ayudes a los vendedores a calcular sus
+comisiones creando un programa que les pregunte su nombre y cuánto han vendido en este
+mes. Tu programa le va a responder con una frase que incluya su nombre y el monto que le
+corresponde por las comisiones
+'''
+
+print("=" * 60)
+nombre = input('Hola podrias proporcionarme tu Nombre :')
+ventas =  float (input('¿Cuanto has vendido en este mes? :'))
+print("=" * 60)
+
+if ventas > 0:
+    #Calcular comision
+    comision = (ventas * 13)/100
+    print(f'Hola {nombre},\nEl monto que te corresponde por las comisiones estes mes es: {round(comision,2)} , Felicidades!!!')
+else:
+    print('Lo siento no obtuviste comisión este mes, sigue intentandolo')
