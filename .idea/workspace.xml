@@ -5,16 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="403bf3ce-7d74-4341-829f-7c5304b58c75" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Booleanos/EjerciciosBooleanos.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Booleanos/GuiaBooleanos.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Booleanos/PracticasBooleanos.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practica_Dia1Curso/Practica_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practica_Dia1Curso/Proyecto+del+Día+1.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practica_Dia2Curso/Practica_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practica_Dia3Curso/Practica_3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practica_Dia3Curso/Proyecto+del+Día+3.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ControldeFlujo/Control_de_Flujo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ControldeFlujo/EjerciciosControldeFlujo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ControldeFlujo/For_ControlFlujo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ControldeFlujo/IF_ControlFlujo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ControldeFlujo/SolucionesEjerciciosControlesFlujo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OperadoresComparacion/EjerciciosOperadoresComparacion.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OperadoresComparacion/Operadores+de+Comparación.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OperadoresComparacion/Operadores_Comparacion.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OperadoresLogicos/EjerciciosOperadoresLogicos.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OperadoresLogicos/Operadores_Logicos.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pruebas.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practica_1.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,11 +45,17 @@
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "Python.EjerciciosListas.executor": "Run",
+    "Python.EjerciciosOperadoresComparacion.executor": "Run",
+    "Python.EjerciciosOperadoresLogicos.executor": "Run",
     "Python.Estructuras_control.executor": "Run",
+    "Python.For_ControlFlujo.executor": "Run",
     "Python.GuiaDiccionario.executor": "Run",
+    "Python.IF_ControlFlujo.executor": "Run",
     "Python.Listas.executor": "Run",
     "Python.Metodos_String.executor": "Run",
     "Python.Metodos_String_Completos.executor": "Run",
+    "Python.Operadores_Comparacion.executor": "Run",
+    "Python.Operadores_Logicos.executor": "Run",
     "Python.Paractica_index.executor": "Run",
     "Python.PracticaDiccionario.executor": "Run",
     "Python.PracticaListas.executor": "Run",
@@ -58,35 +66,125 @@
     "Python.Practica_3.executor": "Run",
     "Python.PracticasBoleanos.executor": "Run",
     "Python.PracticasBooleanos.executor": "Run",
+    "Python.PracticasControldeFlujo.executor": "Run",
     "Python.PracticasSet.executor": "Run",
     "Python.Prctica_MetodosString1.executor": "Run",
     "Python.Prctica_mtdIndx.executor": "Run",
     "Python.Prctica_substring.executor": "Run",
     "Python.Problemas_Metodos_String (1).executor": "Run",
     "Python.Problemas_Metodos_String.executor": "Run",
+    "Python.Pruebas.executor": "Run",
     "Python.Solucion_Problemas (1).executor": "Run",
     "Python.Solucion_Problemas.executor": "Run",
     "Python.Validacion_Problemas.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "/Users/marcose/Documents/PYTHON_MB/Practica_Dia3Curso"
+    "last_opened_file_path": "/Users/marcose/Documents/PYTHON_MB"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/OperadoresComparacion" />
       <recent name="$PROJECT_DIR$/Practica_Dia3Curso" />
       <recent name="$PROJECT_DIR$/Practica_Dia2Curso" />
       <recent name="$PROJECT_DIR$/Practica_curso1" />
-      <recent name="$PROJECT_DIR$" />
-      <recent name="$PROJECT_DIR$/.venv/MetodosString" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/Practica_Dia1Curso" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Practica_3">
-    <configuration name="Practica_1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.Pruebas">
+    <configuration name="EjerciciosOperadoresLogicos" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PYTHON_MB" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/OperadoresLogicos" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/OperadoresLogicos/EjerciciosOperadoresLogicos.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="For_ControlFlujo" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PYTHON_MB" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ControldeFlujo" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ControldeFlujo/For_ControlFlujo.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="IF_ControlFlujo" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PYTHON_MB" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ControldeFlujo" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ControldeFlujo/IF_ControlFlujo.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Operadores_Logicos" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PYTHON_MB" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/OperadoresLogicos" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/OperadoresLogicos/Operadores_Logicos.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Pruebas" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PYTHON_MB" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -99,95 +197,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Practica_Dia1Curso/Practica_1.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Practica_2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="PYTHON_MB" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Practica_Dia2Curso" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Practica_Dia2Curso/Practica_2.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Practica_3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="PYTHON_MB" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Practica_Dia3Curso" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Practica_Dia3Curso/Practica_3.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="PracticasBooleanos" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="PYTHON_MB" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Booleanos" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Booleanos/PracticasBooleanos.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="PracticasSet" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="PYTHON_MB" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Set" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Set/PracticasSet.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Pruebas.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -198,11 +208,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Practica_3" />
-        <item itemvalue="Python.Practica_2" />
-        <item itemvalue="Python.Practica_1" />
-        <item itemvalue="Python.PracticasBooleanos" />
-        <item itemvalue="Python.PracticasSet" />
+        <item itemvalue="Python.Pruebas" />
+        <item itemvalue="Python.For_ControlFlujo" />
+        <item itemvalue="Python.IF_ControlFlujo" />
+        <item itemvalue="Python.EjerciciosOperadoresLogicos" />
+        <item itemvalue="Python.Operadores_Logicos" />
       </list>
     </recent_temporary>
   </component>
