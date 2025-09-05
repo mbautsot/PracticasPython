@@ -1,0 +1,34 @@
+
+'''
+Ejercicios de match-case (Python 3.10+)
+1. Escribe un match que clasifique un número en: "cero", "uno", "dos" o "mayor que dos".
+2. Dada una tupla (x, y), clasifica si está en el origen, eje X, eje Y o en un cuadrante.
+3. Clasifica una lista según su longitud: vacía, 1 elemento, 2 elementos, o más.
+4. Usa match para determinar si un string es "hola", "adios" o otro.
+5. Clasifica un punto (x, y, z) en 3D: origen, eje X, plano XY, etc.
+6. Dada una persona con (nombre, edad), clasifica si es "Juan" de 30, menor de 18, o mayor de 65.
+7. Usa match con | para detectar vocales en un carácter.
+8. Clasifica una fecha (dia, mes, año) como "Navidad" (24/12), "Año Nuevo" (1/1), o otra.
+9. Dada una figura (círculo, rectángulo, triángulo), calcula el área según sus atributos.
+10. Clasifica un color (string) en primario ("rojo", "azul", "amarillo") o secundario.
+11. Usa match para evaluar una operación matemática ("suma", "resta", etc) y dos números.
+12. Clasifica un animal por su tipo y atributos (ej: perro con raza, gato con color).
+13. Dada una dirección IP (v4) como tupla (a,b,c,d), verifica si es localhost (127.0.0.1).
+14. Usa match para validar un comando de voz: "activar modo X", "desactivar modo Y", etc.
+15. Clasifica el estado de un semáforo: "rojo" (parar), "amarillo" (precaución), "verde" (avanzar).
+16. Dada una lista anidada, clasifica si es [a], [a,b], [a,[b]], etc.
+17. Usa match para determinar el tipo de triángulo según sus lados: equilátero, isósceles, escaleno.
+18. Clasifica un vehículo por tipo: coche (con matrícula), bicicleta (con marchas), barco (con eslora).
+19. Dada una cadena, clasifica si está vacía, es un palíndromo o no.
+20. Usa match para evaluar el resultado de un dado (1-6) y dar un mensaje según el número.
+21. Clasifica un número complejo: real puro, imaginario puro, o complejo.
+22. Dada una hora (h, m, s), clasifica como "mañana" (5-12), "tarde" (12-20), "noche".
+23. Usa match para manejar errores: "ok", "error: 404", "error: 500", etc.
+24. Clasifica un árbol binario: nodo hoja (sin hijos), nodo con left, nodo con right, o completo.
+25. Dada una forma geométrica con atributos, calcula perímetro o área según corresponda.
+26. Clasifica un email por su dominio: "gmail", "hotmail", "otros".
+27. Usa match para procesar una respuesta de API: {"status": "ok", "data": ...} o {"status": "error", ...}.
+28. Clasifica un juego de cartas: "escalera real", "póker", "full house", etc.
+29. Dada una cadena, verifica si es un número entero, flotante o no numérico.
+30. Crea un match que simule un menú de opciones: "1. Agregar", "2. Eliminar", "3. Salir".
+'''

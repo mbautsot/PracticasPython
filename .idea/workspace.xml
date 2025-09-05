@@ -5,18 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="403bf3ce-7d74-4341-829f-7c5304b58c75" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/ControldeFlujo/Control_de_Flujo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ControldeFlujo/EjerciciosControldeFlujo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ControldeFlujo/For_ControlFlujo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ControldeFlujo/IF_ControlFlujo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ControldeFlujo/SolucionesEjerciciosControlesFlujo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OperadoresComparacion/EjerciciosOperadoresComparacion.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OperadoresComparacion/Operadores+de+Comparación.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OperadoresComparacion/Operadores_Comparacion.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OperadoresLogicos/EjerciciosOperadoresLogicos.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OperadoresLogicos/Operadores_Logicos.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pruebas.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Match/PracticaMatch.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/While/PracticaWhile.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/PYTHON_MB.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/PYTHON_MB.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pruebas.py" beforeDir="false" afterPath="$PROJECT_DIR$/Pruebas.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,6 +27,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/While/PracticaLooPWhile.py" root0="FORCE_HIGHLIGHTING" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 5
 }</component>
@@ -41,48 +38,61 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "Python.EjerciciosListas.executor": "Run",
-    "Python.EjerciciosOperadoresComparacion.executor": "Run",
-    "Python.EjerciciosOperadoresLogicos.executor": "Run",
-    "Python.Estructuras_control.executor": "Run",
-    "Python.For_ControlFlujo.executor": "Run",
-    "Python.GuiaDiccionario.executor": "Run",
-    "Python.IF_ControlFlujo.executor": "Run",
-    "Python.Listas.executor": "Run",
-    "Python.Metodos_String.executor": "Run",
-    "Python.Metodos_String_Completos.executor": "Run",
-    "Python.Operadores_Comparacion.executor": "Run",
-    "Python.Operadores_Logicos.executor": "Run",
-    "Python.Paractica_index.executor": "Run",
-    "Python.PracticaDiccionario.executor": "Run",
-    "Python.PracticaListas.executor": "Run",
-    "Python.PracticaPropiedadesString.executor": "Run",
-    "Python.PracticaTuples.executor": "Run",
-    "Python.Practica_1.executor": "Run",
-    "Python.Practica_2.executor": "Run",
-    "Python.Practica_3.executor": "Run",
-    "Python.PracticasBoleanos.executor": "Run",
-    "Python.PracticasBooleanos.executor": "Run",
-    "Python.PracticasControldeFlujo.executor": "Run",
-    "Python.PracticasSet.executor": "Run",
-    "Python.Prctica_MetodosString1.executor": "Run",
-    "Python.Prctica_mtdIndx.executor": "Run",
-    "Python.Prctica_substring.executor": "Run",
-    "Python.Problemas_Metodos_String (1).executor": "Run",
-    "Python.Problemas_Metodos_String.executor": "Run",
-    "Python.Pruebas.executor": "Run",
-    "Python.Solucion_Problemas (1).executor": "Run",
-    "Python.Solucion_Problemas.executor": "Run",
-    "Python.Validacion_Problemas.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "/Users/marcose/Documents/PYTHON_MB"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Python.EjerciciosListas.executor&quot;: &quot;Run&quot;,
+    &quot;Python.EjerciciosOperadoresComparacion.executor&quot;: &quot;Run&quot;,
+    &quot;Python.EjerciciosOperadoresLogicos.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Estructuras_control.executor&quot;: &quot;Run&quot;,
+    &quot;Python.For_ControlFlujo.executor&quot;: &quot;Run&quot;,
+    &quot;Python.GuiaDiccionario.executor&quot;: &quot;Run&quot;,
+    &quot;Python.IF_ControlFlujo.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Listas.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Metodos_String.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Metodos_String_Completos.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Operadores_Comparacion.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Operadores_Logicos.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Paractica_index.executor&quot;: &quot;Run&quot;,
+    &quot;Python.PracticaDiccionario.executor&quot;: &quot;Run&quot;,
+    &quot;Python.PracticaListas.executor&quot;: &quot;Run&quot;,
+    &quot;Python.PracticaLooPWhile.executor&quot;: &quot;Run&quot;,
+    &quot;Python.PracticaMatch.executor&quot;: &quot;Run&quot;,
+    &quot;Python.PracticaPropiedadesString.executor&quot;: &quot;Run&quot;,
+    &quot;Python.PracticaTuples.executor&quot;: &quot;Run&quot;,
+    &quot;Python.PracticaWhile.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Practica_1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Practica_2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Practica_3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.PracticasBoleanos.executor&quot;: &quot;Run&quot;,
+    &quot;Python.PracticasBooleanos.executor&quot;: &quot;Run&quot;,
+    &quot;Python.PracticasControldeFlujo.executor&quot;: &quot;Run&quot;,
+    &quot;Python.PracticasRangos.executor&quot;: &quot;Run&quot;,
+    &quot;Python.PracticasSet.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Prctica_MetodosString1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Prctica_mtdIndx.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Prctica_substring.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Problemas_Metodos_String (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.Problemas_Metodos_String.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Pruebas.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Solucion_Problemas (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.Solucion_Problemas.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Validacion_Problemas.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/marcose/Documents/PYTHON_MB&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
@@ -92,32 +102,14 @@
       <recent name="$PROJECT_DIR$/Practica_curso1" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/Practica_Dia1Curso" />
+      <recent name="$PROJECT_DIR$/Rangos" />
+      <recent name="$PROJECT_DIR$/For" />
+      <recent name="$PROJECT_DIR$/Random" />
+      <recent name="$PROJECT_DIR$/MaxMin" />
+      <recent name="$PROJECT_DIR$/While" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Pruebas">
-    <configuration name="EjerciciosOperadoresLogicos" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="PYTHON_MB" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/OperadoresLogicos" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/OperadoresLogicos/EjerciciosOperadoresLogicos.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.PracticaMatch">
     <configuration name="For_ControlFlujo" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PYTHON_MB" />
       <option name="ENV_FILES" value="" />
@@ -131,6 +123,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ControldeFlujo/For_ControlFlujo.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
@@ -140,7 +133,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="IF_ControlFlujo" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="PracticaLooPWhile" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PYTHON_MB" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -149,11 +142,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ControldeFlujo" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/While" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ControldeFlujo/IF_ControlFlujo.py" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/While/PracticaLooPWhile.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -162,7 +156,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Operadores_Logicos" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="PracticaMatch" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PYTHON_MB" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -171,11 +165,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/OperadoresLogicos" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Match" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/OperadoresLogicos/Operadores_Logicos.py" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Match/PracticaMatch.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -184,7 +179,30 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Pruebas" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="PracticaWhile" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PYTHON_MB" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/While" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/While/PracticaWhile.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="PracticasRangos" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PYTHON_MB" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -197,6 +215,30 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Rangos/PracticasRangos.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Pruebas" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="PYTHON_MB" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Pruebas.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
@@ -208,18 +250,19 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Pruebas" />
+        <item itemvalue="Python.PracticaMatch" />
+        <item itemvalue="Python.PracticaWhile" />
+        <item itemvalue="Python.PracticaLooPWhile" />
+        <item itemvalue="Python.PracticasRangos" />
         <item itemvalue="Python.For_ControlFlujo" />
-        <item itemvalue="Python.IF_ControlFlujo" />
-        <item itemvalue="Python.EjerciciosOperadoresLogicos" />
-        <item itemvalue="Python.Operadores_Logicos" />
       </list>
     </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-b3ae9b5d7125-f0eec537fc84-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-252.23892.439" />
+        <option value="bundled-js-predefined-d6986cc7102b-b598e85cdad2-JavaScript-PY-252.25557.130" />
+        <option value="bundled-python-sdk-1bde30d8e611-7b97d883f26b-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-252.25557.130" />
       </set>
     </attachedChunks>
   </component>
@@ -230,8 +273,13 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1755116031493</updated>
+      <workItem from="1756926086835" duration="1671000" />
+      <workItem from="1756927827303" duration="10000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -243,5 +291,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/PYTHON_MB$Pruebas.coverage" NAME="Pruebas Coverage Results" MODIFIED="1756927636331" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PYTHON_MB$PracticaMatch.coverage" NAME="PracticaMatch Coverage Results" MODIFIED="1756927640508" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Match" />
   </component>
 </project>
